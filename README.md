@@ -1,6 +1,12 @@
 # Retrofit
 For retrofit api calling
 
+ // retrofit, gson
+    compile 'com.google.code.gson:gson:2.6.2'
+    compile 'com.squareup.retrofit2:retrofit:2.0.2'
+    compile 'com.squareup.retrofit2:converter-gson:2.0.2'
+
+
 //ApiInterface
 
 public interface ApiInterface {
